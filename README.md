@@ -1,10 +1,7 @@
 <!-- 👋 Hi there -->
 
-🚀  **Jinank Thakker** – AI/ML Engineer & Data Scientist  
-Graduate Assistant @ SUNY Poly | Founder @ Rethinksoft  
-
-I’m a Master’s student in Data Science & Analytics with 10+ years of software development and entrepreneurship experience. I build AI Agents, machine learning models, and full-stack apps to drive innovation and solve real-world problems. Creator of [YouTubeTranscriptPro](https://www.jinankthakker.com/)—a SaaS platform for automated transcript extraction, multilingual Q&A, and summarization.
-
+🚀  **Jinank Thakker** – Machine Learning Engineer & Data Scientist  
+I’m a passionate Machine Learning Engineer and Computer Vision Engineer, committed to building impactful ML solutions and pushing the boundaries of model development. I actively participate in Kaggle competitions and specialize in deep learning, computer vision, and end-to-end data science. 
 
 🛠️ **Technical Skills**
 
