@@ -1,137 +1,149 @@
 # 👋 Hi, I'm Jinank Thakker
 
-🚀 **Machine Learning Engineer | Data Scientist | AI Builder**
+🚀 Machine Learning Engineer | AI Systems Builder | Product Engineer
 
-I design and build **end-to-end machine learning systems** that transform data into intelligent products.  
-My work focuses on **deep learning, computer vision, NLP, and large-scale ML pipelines**.
+I build production-grade AI systems, machine learning infrastructure, and scalable software products.
 
-Currently pursuing a **Master’s in Data Science & Analytics at SUNY Polytechnic Institute (GPA: 3.95/4.0)** while actively competing in **Kaggle Machine Learning competitions** and building AI-driven applications.
+With 10+ years of engineering experience across SaaS, machine learning, and distributed systems, I focus on turning AI research into real-world products — from LLM pipelines and AI agents to end-to-end ML systems and automation platforms.
 
-💡 I enjoy solving complex problems with data, building scalable ML systems, and pushing models from **research → production**.
+Previously, I was a founding engineer at Orderhive, where I helped scale a SaaS platform serving 1,500+ merchants globally before its acquisition by Cin7.
 
----
-
-# 🧠 Core Expertise
-
-🔹 Machine Learning & Deep Learning  
-🔹 Computer Vision & NLP  
-🔹 Feature Engineering & Model Optimization  
-🔹 End-to-End ML Pipelines  
-🔹 AI Product Development  
+Currently pursuing an MS in Data Science & Analytics at SUNY Polytechnic Institute (3.95+ GPA), while building AI products and advancing applied ML research.
 
 ---
 
-# 🏆 Kaggle Competitions
+## 🚀 Building
 
-I actively participate in **Kaggle competitions** to refine real-world ML skills and experiment with advanced models.
+### RethinkJobs
+AI-powered job search platform for students and early-career professionals.
 
-🔗 **Kaggle Profile**  
+Daily-updated internships, co-ops, new grad, and entry-level opportunities across:
+- Software Engineering
+- Machine Learning
+- Data Science
+- Product
+- Finance
+- Business Operations
+
+Focus:
+- AI-powered job matching
+- Resume optimization
+- Application workflow automation
+
+---
+
+### Rethinksoft
+AI-first product company focused on business automation through AI agents.
+
+Building:
+- Browser automation agents
+- Workflow automation agents
+- LLM-powered business assistants
+- Agent orchestration systems
+
+---
+
+## 🧠 Core Expertise
+
+- Machine Learning Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Agent Orchestration
+- Production ML Systems
+- NLP & Transformers
+- Deep Learning
+- Data Pipelines
+- MLOps & Model Deployment
+- Applied AI Product Development
+
+---
+
+## 🏆 Kaggle & Applied ML
+
+I actively participate in Kaggle competitions to sharpen model-building and optimization skills.
+
+🔗 Kaggle  
 https://www.kaggle.com/jinankthakker
 
-Key experience includes:
+Highlighted work:
 
-- Gradient Boosting models (LightGBM, XGBoost)
-- Deep Learning architectures
-- Transformer models for NLP
-- Feature engineering for tabular ML
-- Ensemble modeling and hyperparameter optimization
+### U.S. Patent Phrase to Phrase Matching
+Built and fine-tuned DeBERTa-v3-large for semantic similarity prediction.
 
-Example Project:
-- **Patent Phrase to Phrase Matching**
-  - Implemented **DeBERTa-v3-large transformer model**
-  - Achieved strong leaderboard performance through fine-tuning and ensemble strategies
+Results:
+- Public Score: 0.8077
+- Private Score: 0.8261
 
-🎯 Current Goal: **Top 10% Kaggle Competitor**
-
----
-
-# ⚙️ Technical Skills
-
-## Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- XGBoost
-- LightGBM
-- Hugging Face Transformers
-
-## Data Science
-- Python (Pandas, NumPy)
-- R (tidyverse, caret)
-- Feature Engineering
-- Statistical Modeling
-- Experiment Design
-
-## Natural Language Processing
-- spaCy
-- NLTK
+Tech:
 - Transformers
-- Bio_ClinicalBERT
-
-## Data Engineering
-- SQL
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQLAlchemy
-
-## Backend Development
-- FastAPI
-- Flask
-- Node.js
-- REST APIs
-
-## Frontend & Visualization
-- React
-- Next.js
-- Streamlit
-- Data Dashboards
-
-## DevOps & Cloud
-- Docker
-- GitHub Actions
-- CI/CD
-- AWS (EC2, S3, Lambda)
-- Google Cloud Platform
+- Hugging Face
+- Cross-validation
+- Ensemble Learning
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ Tech Stack
+
+### Machine Learning
+Python • PyTorch • TensorFlow • Scikit-learn • XGBoost • LightGBM • Hugging Face
+
+### LLM Stack
+LangChain • LlamaIndex • Vector Databases • Embeddings • RAG • Prompt Engineering
+
+### Data Science
+Pandas • NumPy • Statistical Modeling • Feature Engineering • Time Series Forecasting
+
+### Backend
+FastAPI • Flask • Django • REST APIs • Node.js
+
+### Databases
+PostgreSQL • MySQL • MongoDB
+
+### Frontend
+React • Next.js • Streamlit
+
+### DevOps & Cloud
+Docker • AWS • GitHub Actions • CI/CD • Vercel
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinank&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🔥 Most Used Languages
+## 🔥 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinank&layout=compact&theme=tokyonight)
 
 ---
 
-# 🧪 Current Focus
+## 🔬 Current Focus
 
-- Machine Learning Competitions
-- Large Language Models
-- Computer Vision Systems
-- End-to-End ML Pipelines
-- AI Startup Products
-
----
-
-# 🤝 Let's Collaborate
-
-I’m always interested in collaborating on:
-
-- Machine Learning Projects
-- AI Research
-- Data Science Products
-- Open Source ML Tools
-
-If you're building something exciting in **AI or Machine Learning**, let's connect.
+- Agentic AI Systems
+- Context Engineering for LLMs
+- AI Browser Automation
+- Production RAG Systems
+- ML Research (Transformers & Time-Series)
+- AI Product Development
 
 ---
 
-# 📫 Contact
+## 🤝 Open to Collaborate
+
+Interested in:
+- AI Products
+- LLM Infrastructure
+- Agent Systems
+- Applied ML Research
+- Open Source AI Tools
+
+If you're building in AI, let's connect.
+
+---
+
+## 📫 Connect
 
 🌐 Website  
 https://www.jinankthakker.com
