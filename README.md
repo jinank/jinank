@@ -4,11 +4,11 @@
 
 I build production-grade AI systems, machine learning infrastructure, and scalable software products.
 
-With 10+ years of engineering experience across SaaS, machine learning, and distributed systems, I focus on turning AI research into real-world products — from LLM pipelines and AI agents to end-to-end ML systems and automation platforms.
+With 10+ years of engineering experience across SaaS, machine learning, and distributed systems, I focus on turning AI research into real-world products from LLM pipelines and AI agents to end-to-end ML systems and automation platforms.
 
 Previously, I was a founding engineer at Orderhive, where I helped scale a SaaS platform serving 1,500+ merchants globally before its acquisition by Cin7.
 
-Currently pursuing an MS in Data Science & Analytics at SUNY Polytechnic Institute (3.95+ GPA), while building AI products and advancing applied ML research.
+Currently pursuing an MS in Data Science & Analytics at SUNY Polytechnic Institute (3.97 GPA), while building AI products and advancing applied ML research.
 
 ---
 
