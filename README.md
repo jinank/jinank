@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jinank Thakker
+# Hi, I'm Jinank Thakker
 
-🚀 Machine Learning Engineer | AI Systems Builder | Product Engineer
+Machine Learning Engineer | AI Systems Builder | Product Engineer
 
 I build production-grade AI systems, machine learning infrastructure, and scalable software products.
 
@@ -12,10 +12,9 @@ Currently pursuing an MS in Data Science & Analytics at SUNY Polytechnic Institu
 
 ---
 
-## 🚀 Building
+##  Building
 
-### RethinkJobs
-AI-powered job search platform for students and early-career professionals.
+### AI-powered job search platform for students and early-career professionals.
 
 Daily-updated internships, co-ops, new grad, and entry-level opportunities across:
 - Software Engineering
@@ -32,8 +31,7 @@ Focus:
 
 ---
 
-### Rethinksoft
-AI-first product company focused on business automation through AI agents.
+### AI-first product company focused on business automation through AI agents.
 
 Building:
 - Browser automation agents
@@ -43,7 +41,7 @@ Building:
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
 - Machine Learning Systems
 - Large Language Models (LLMs)
@@ -58,11 +56,11 @@ Building:
 
 ---
 
-## 🏆 Kaggle & Applied ML
+##  Kaggle & Applied ML
 
 I actively participate in Kaggle competitions to sharpen model-building and optimization skills.
 
-🔗 Kaggle  
+Kaggle  
 https://www.kaggle.com/jinankthakker
 
 Highlighted work:
@@ -82,31 +80,6 @@ Tech:
 
 ---
 
-## ⚙️ Tech Stack
-
-### Machine Learning
-Python • PyTorch • TensorFlow • Scikit-learn • XGBoost • LightGBM • Hugging Face
-
-### LLM Stack
-LangChain • LlamaIndex • Vector Databases • Embeddings • RAG • Prompt Engineering
-
-### Data Science
-Pandas • NumPy • Statistical Modeling • Feature Engineering • Time Series Forecasting
-
-### Backend
-FastAPI • Flask • Django • REST APIs • Node.js
-
-### Databases
-PostgreSQL • MySQL • MongoDB
-
-### Frontend
-React • Next.js • Streamlit
-
-### DevOps & Cloud
-Docker • AWS • GitHub Actions • CI/CD • Vercel
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinank&show_icons=true&theme=tokyonight)
@@ -119,7 +92,7 @@ Docker • AWS • GitHub Actions • CI/CD • Vercel
 
 ---
 
-## 🔬 Current Focus
+## Current Focus
 
 - Agentic AI Systems
 - Context Engineering for LLMs
@@ -130,7 +103,7 @@ Docker • AWS • GitHub Actions • CI/CD • Vercel
 
 ---
 
-## 🤝 Open to Collaborate
+## Open to Collaborate
 
 Interested in:
 - AI Products
@@ -139,17 +112,14 @@ Interested in:
 - Applied ML Research
 - Open Source AI Tools
 
-If you're building in AI, let's connect.
+If you're hiring or building in AI, let's connect.
 
 ---
 
 ## 📫 Connect
 
-🌐 Website  
+Website  
 https://www.jinankthakker.com
 
-💼 LinkedIn  
+LinkedIn  
 https://www.linkedin.com/in/jinankthakker
-
-🐙 GitHub  
-https://github.com/jinank
