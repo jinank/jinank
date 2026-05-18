@@ -80,18 +80,6 @@ Tech:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinank&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinank&layout=compact&theme=tokyonight)
-
----
-
 ## Current Focus
 
 - Agentic AI Systems
