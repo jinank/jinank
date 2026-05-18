@@ -4,7 +4,7 @@ Machine Learning Engineer • AI Systems Builder • Forward Deployed Engineer
 
 I build production-grade AI systems, autonomous browser agents, and scalable ML infrastructure.
 
-With 10+ years of experience across SaaS, distributed systems, machine learning, and product engineering, I focus on turning modern AI capabilities into real-world products — from LLM pipelines and workflow automation to agent orchestration and self-improving AI systems.
+With 10+ years of experience across SaaS, distributed systems, machine learning, and product engineering, I focus on turning modern AI capabilities into real-world products,from LLM pipelines and workflow automation to agent orchestration and self-improving AI systems.
 
 Previously founding engineer at Orderhive, where I helped scale a global SaaS platform serving 1,500+ merchants before its acquisition by Cin7.
 
