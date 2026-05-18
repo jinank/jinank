@@ -1,113 +1,82 @@
 # Hi, I'm Jinank Thakker
 
-Machine Learning Engineer | AI Systems Builder | Product Engineer
+Machine Learning Engineer • AI Systems Builder • Forward Deployed Engineer
 
-I build production-grade AI systems, machine learning infrastructure, and scalable software products.
+I build production-grade AI systems, autonomous browser agents, and scalable ML infrastructure.
 
-With 10+ years of engineering experience across SaaS, machine learning, and distributed systems, I focus on turning AI research into real-world products from LLM pipelines and AI agents to end-to-end ML systems and automation platforms.
+With 10+ years of experience across SaaS, distributed systems, machine learning, and product engineering, I focus on turning modern AI capabilities into real-world products — from LLM pipelines and workflow automation to agent orchestration and self-improving AI systems.
 
-Previously, I was a founding engineer at Orderhive, where I helped scale a SaaS platform serving 1,500+ merchants globally before its acquisition by Cin7.
+Previously founding engineer at Orderhive, where I helped scale a global SaaS platform serving 1,500+ merchants before its acquisition by Cin7.
 
-Currently pursuing an MS in Data Science & Analytics at SUNY Polytechnic Institute (3.97 GPA), while building AI products and advancing applied ML research.
-
----
-
-##  Building
-
-### AI-powered job search platform for students and early-career professionals.
-
-Daily-updated internships, co-ops, new grad, and entry-level opportunities across:
-- Software Engineering
-- Machine Learning
-- Data Science
-- Product
-- Finance
-- Business Operations
-
-Focus:
-- AI-powered job matching
-- Resume optimization
-- Application workflow automation
+Recently completed MS in Data Science & Analytics at SUNY Polytechnic Institute, New York (3.97 GPA) while building AI products and applied ML systems.
 
 ---
 
-### AI-first product company focused on business automation through AI agents.
+## Currently Building
 
-Building:
+### Autonomous AI Agent Infrastructure
+Building systems for:
 - Browser automation agents
-- Workflow automation agents
-- LLM-powered business assistants
-- Agent orchestration systems
+- Workflow execution agents
+- Agent memory & execution learning
+- Multi-agent orchestration
+- Reliable AI workflow automation
+
+### AI-Powered Job Search Platform
+Platform focused on helping students and early-career professionals discover and manage:
+- internships
+- new grad roles
+- ML / AI opportunities
+- software engineering roles
+
+Core features:
+- AI-powered matching
+- resume optimization
+- application workflow automation
+- recruiter and interview tracking
 
 ---
 
 ## Core Expertise
 
 - Machine Learning Systems
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- LLM Infrastructure
 - AI Agents & Agent Orchestration
-- Production ML Systems
+- Retrieval-Augmented Generation (RAG)
 - NLP & Transformers
 - Deep Learning
-- Data Pipelines
-- MLOps & Model Deployment
+- Production ML Systems
+- AI Workflow Automation
+- Distributed Systems
+- Data Pipelines & MLOps
 - Applied AI Product Development
 
 ---
 
-##  Kaggle & Applied ML
+## Research & Applied ML
 
-I actively participate in Kaggle competitions to sharpen model-building and optimization skills.
+Currently exploring:
+- Self-learning agentic systems
+- Context engineering for LLMs
+- Browser-native AI agents
+- Production RAG architectures
+- Transformer-based ML systems
+- Time-series forecasting & anomaly detection
+
+I also actively participate in Kaggle competitions and applied ML experimentation.
 
 Kaggle  
 https://www.kaggle.com/jinankthakker
 
-Highlighted work:
-
-### U.S. Patent Phrase to Phrase Matching
-Built and fine-tuned DeBERTa-v3-large for semantic similarity prediction.
-
-Results:
-- Public Score: 0.8077
-- Private Score: 0.8261
-
-Tech:
-- Transformers
-- Hugging Face
-- Cross-validation
-- Ensemble Learning
-
 ---
 
-## Current Focus
-
-- Agentic AI Systems
-- Context Engineering for LLMs
-- AI Browser Automation
-- Production RAG Systems
-- ML Research (Transformers & Time-Series)
-- AI Product Development
-
----
-
-## Open to Collaborate
-
-Interested in:
-- AI Products
-- LLM Infrastructure
-- Agent Systems
-- Applied ML Research
-- Open Source AI Tools
-
-If you're hiring or building in AI, let's connect.
-
----
-
-## 📫 Connect
+## Connect
 
 Website  
 https://www.jinankthakker.com
 
 LinkedIn  
 https://www.linkedin.com/in/jinankthakker
+
+Email  
+jinank.thakker@gmail.com
