@@ -1,82 +1,15 @@
-# Hi, I'm Jinank Thakker
+# 💫 About Me:
+Skip to content<br>jinank<br>User navigation<br>Overview<br>Repositories<br>38<br> (38)<br>Projects<br>Packages<br>Stars<br>8<br> (8)<br><br>Jinank Thakker<br>jinank · he/him<br>Data Scientist & Machine Learning Engineer | AI Agents | LLMs | Production ML & MLOps | End-to-End ML Systems | Kaggle Expert (Top 10%)<br> 1 follower · 3 following<br>New York<br>https://jinankthakker.com<br>in/jinankthakker<br>https://www.kaggle.com/jinankthakker<br>@jinankthakker<br>Achievements<br>Achievement: Pair Extraordinaire<br>Achievement: Pull Shark<br>Highlights<br> Pro<br>Organizations<br>@vish1406 @ex-crm<br>jinank/README.md<br>Hi, I'm Jinank Thakker<br>Machine Learning Engineer • AI Systems Builder • Forward Deployed Engineer<br><br>I build production-grade AI systems, autonomous browser agents, and scalable ML infrastructure.<br><br>With 10+ years of experience across SaaS, distributed systems, machine learning, and product engineering, I focus on turning modern AI capabilities into real-world products,from LLM pipelines and workflow automation to agent orchestration and self-improving AI systems.<br><br>Previously founding engineer at Orderhive, where I helped scale a global SaaS platform serving 1,500+ merchants before its acquisition by Cin7.<br><br>Recently completed MS in Data Science & Analytics at SUNY Polytechnic Institute, New York (3.97 GPA) while building AI products and applied ML systems.<br><br>Currently Building<br>Autonomous AI Agent Infrastructure<br>Building systems for:<br><br>Browser automation agents<br>Workflow execution agents<br>Agent memory & execution learning<br>Multi-agent orchestration<br>Reliable AI workflow automation<br>AI-Powered Job Search Platform<br>Platform focused on helping students and early-career professionals discover and manage:<br><br>internships<br>new grad roles<br>ML / AI opportunities<br>software engineering roles<br>Core features:<br><br>AI-powered matching<br>resume optimization<br>application workflow automation<br>recruiter and interview tracking<br>Core Expertise<br>Machine Learning Systems<br>LLM Infrastructure<br>AI Agents & Agent Orchestration<br>Retrieval-Augmented Generation (RAG)<br>NLP & Transformers<br>Deep Learning<br>Production ML Systems<br>AI Workflow Automation<br>Distributed Systems<br>Data Pipelines & MLOps<br>Applied AI Product Development<br>Research & Applied ML<br>Currently exploring:<br><br>Self-learning agentic systems<br>Context engineering for LLMs<br>Browser-native AI agents<br>Production RAG architectures<br>Transformer-based ML systems<br>Time-series forecasting & anomaly detection<br>I also actively participate in Kaggle competitions and applied ML experimentation.<br><br>Kaggle<br>https://www.kaggle.com/jinankthakker<br><br>Connect<br>Website<br>https://www.jinankthakker.com<br><br>LinkedIn<br>https://www.linkedin.com/in/jinankthakker<br><br>Email<br>jinank.thakker@gmail.com<br><br>Popular repositoriesLoading<br>Summer2026Internships<br>Public<br>Forked from summer2026internships/Summer2026-Internships<br><br>Collection of Summer 2026 tech internships!<br><br> 2<br><br>Kaggle_competitions<br>Public<br>All Kaggle Competitions<br><br> Jupyter Notebook<br><br>Summer2026-Internships<br>Public<br>Forked from vanshb03/Summer2027-Internships<br><br>Collection of Summer 2026 tech internships!<br><br><br>jinank<br>Public<br><br><br>AI-CS-Entry-Level-Internship-Finder<br>Public<br>Forked from Pranav-here/AI-CS-Entry-Level-Internship-Finder<br><br>A Streamlit web app for students and new grads to search AI, ML, Data Science, and SWE internships or entry-level jobs. Uses the JSearch API for reliable listings, supports remote filtering, and fe…<br><br> Python<br><br>LLM-Hyperparameters-Experiment<br>Public<br>Conducted a $2^3$ factorial study on GPT-4o-mini sampling parameters<br><br> Python<br><br>Footer<br>© 2026 GitHub, Inc.<br>Footer navigation<br>Terms<br>Privacy<br>Security<br>Status<br>Community<br>Docs<br>Contact<br>Manage cookies<br>Do not share my personal information<br>
 
-Machine Learning Engineer • AI Systems Builder • Forward Deployed Engineer
 
-I build production-grade AI systems, autonomous browser agents, and scalable ML infrastructure.
-
-With 10+ years of experience across SaaS, distributed systems, machine learning, and product engineering, I focus on turning modern AI capabilities into real-world products,from LLM pipelines and workflow automation to agent orchestration and self-improving AI systems.
-
-Previously founding engineer at Orderhive, where I helped scale a global SaaS platform serving 1,500+ merchants before its acquisition by Cin7.
-
-Recently completed MS in Data Science & Analytics at SUNY Polytechnic Institute, New York (3.97 GPA) while building AI products and applied ML systems.
-
----
-
-## Currently Building
-
-### Autonomous AI Agent Infrastructure
-Building systems for:
-- Browser automation agents
-- Workflow execution agents
-- Agent memory & execution learning
-- Multi-agent orchestration
-- Reliable AI workflow automation
-
-### AI-Powered Job Search Platform
-Platform focused on helping students and early-career professionals discover and manage:
-- internships
-- new grad roles
-- ML / AI opportunities
-- software engineering roles
-
-Core features:
-- AI-powered matching
-- resume optimization
-- application workflow automation
-- recruiter and interview tracking
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jinankthakker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jinankthakker/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jinankthakker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jinankthakker) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jinank Dipakkumar Thakker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jinank.thakker@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jinank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jinank&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jinank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jinank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Core Expertise
-
-- Machine Learning Systems
-- LLM Infrastructure
-- AI Agents & Agent Orchestration
-- Retrieval-Augmented Generation (RAG)
-- NLP & Transformers
-- Deep Learning
-- Production ML Systems
-- AI Workflow Automation
-- Distributed Systems
-- Data Pipelines & MLOps
-- Applied AI Product Development
-
----
-
-## Research & Applied ML
-
-Currently exploring:
-- Self-learning agentic systems
-- Context engineering for LLMs
-- Browser-native AI agents
-- Production RAG architectures
-- Transformer-based ML systems
-- Time-series forecasting & anomaly detection
-
-I also actively participate in Kaggle competitions and applied ML experimentation.
-
-Kaggle  
-https://www.kaggle.com/jinankthakker
-
----
-
-## Connect
-
-Website  
-https://www.jinankthakker.com
-
-LinkedIn  
-https://www.linkedin.com/in/jinankthakker
-
-Email  
-jinank.thakker@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
