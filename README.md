@@ -1,12 +1,12 @@
-# 💫 About Me
+# About Me
 
-# Hi, I'm Jinank Thakker 👋
+# Hi, I'm Jinank Thakker
 
 ### AI / Machine Learning Engineer • Senior Software Engineer • AI Product Builder
 
 I build production-grade AI systems, autonomous browser agents, and scalable ML infrastructure.
 
-With 10+ years of experience across SaaS, distributed systems, AI engineering, and product development, I focus on turning modern AI capabilities into real-world products — from LLM pipelines and workflow automation to multi-agent orchestration and self-improving AI systems.
+With 10+ years of experience across SaaS, distributed systems, AI engineering, and product development, I focus on turning modern AI capabilities into real-world products, from LLM pipelines and workflow automation to multi-agent orchestration and self-improving AI systems.
 
 Previously founding engineer at **Orderhive**, helping scale a global SaaS platform serving 1,500+ merchants before its acquisition by **Cin7**.
 
@@ -14,7 +14,7 @@ Recently completed my **M.S. in Data Science & Analytics (Machine Learning speci
 
 ---
 
-# 🚀 Currently Building
+# Currently Building
 
 ## Autonomous AI Agent Infrastructure
 
@@ -22,12 +22,12 @@ Developing systems for:
 
 * Browser automation agents
 * Workflow execution agents
-* Agent memory & learning systems
+* Agent memory and learning systems
 * Multi-agent orchestration
 * Reliable AI workflow automation
 * Production-grade AI infrastructure
 
-## AI-Powered Career & Internship Platform
+## AI-Powered Career and Internship Platform
 
 Helping students and early-career professionals discover and manage:
 
@@ -41,27 +41,27 @@ Core capabilities:
 * AI-powered matching
 * Resume optimization
 * Application workflow automation
-* Recruiter & interview tracking
+* Recruiter and interview tracking
 
 ---
 
-# 🧠 Core Expertise
+# Core Expertise
 
 * Machine Learning Systems
 * LLM Infrastructure
-* AI Agents & Agent Orchestration
+* AI Agents and Agent Orchestration
 * Retrieval-Augmented Generation (RAG)
-* NLP & Transformers
+* NLP and Transformers
 * Deep Learning
 * Production ML Systems
 * AI Workflow Automation
 * Distributed Systems
-* MLOps & Data Pipelines
+* MLOps and Data Pipelines
 * Applied AI Product Development
 
 ---
 
-# 🔬 Research & Exploration
+# Research and Exploration
 
 Currently exploring:
 
@@ -70,19 +70,19 @@ Currently exploring:
 * Browser-native AI agents
 * Production RAG architectures
 * Transformer-based ML systems
-* Time-series forecasting & anomaly detection
+* Time-series forecasting and anomaly detection
 
 I also actively participate in Kaggle competitions and applied ML experimentation.
 
 ---
 
-# 🏆 Kaggle
+# Kaggle
 
-🔗 https://www.kaggle.com/jinankthakker
+https://www.kaggle.com/jinankthakker
 
 ---
 
-# 🌐 Connect
+# Connect
 
 * Website: https://www.jinankthakker.com
 * LinkedIn: https://www.linkedin.com/in/jinankthakker
@@ -109,13 +109,3 @@ I also actively participate in Kaggle competitions and applied ML experimentatio
 ![](https://streak-stats.demolab.com/?user=jinank\&theme=dark\&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jinank\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jinank\&theme=radical\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-![](https://komarev.com/ghpvc/?username=jinank\&icon=0\&color=0)
