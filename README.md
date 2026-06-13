@@ -37,11 +37,3 @@ Python • FastAPI • LangChain • LangGraph • OpenAI • Claude • Gemini 
 * Kaggle: https://www.kaggle.com/jinankthakker
 * X: https://x.com/jinankthakker
 * YouTube: https://youtube.com/@jinankthakker
-
-## GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=jinank\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=jinank\&theme=dark\&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jinank\&theme=dark\&hide_border=true\&layout=compact)
